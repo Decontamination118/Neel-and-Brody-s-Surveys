@@ -1,0 +1,40 @@
+body
+{
+    margin:10px;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.footer
+{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    text-align:center;
+    line-height:3;
+    background-color:limegreen;
+    color:royalblue;
+    font-family:'Eurostile';
+}
+
+img
+{
+    height:50px;
+    width:75px;
+    border-radius:20px;
+}
+
+#neel
+{
+    justify-content: right;
+    margin:10px;
+}
+
+#brody
+{
+    justify-content: left;
+    margin:10px;
+}
